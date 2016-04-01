@@ -113,6 +113,7 @@ UNIX_PROGS := \
   nice \
   nohup \
   pathchk \
+  stat \
   stdbuf \
   timeout \
   touch \
